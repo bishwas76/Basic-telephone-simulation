@@ -1,4 +1,4 @@
 # Basic Telephone Simulation
 
-This is a simulation of basic telephone simulation.
+This is a simulation of basic telephone system.
 
