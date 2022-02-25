@@ -1,0 +1,86 @@
+.container{
+    justify-content: center;
+}
+.sub-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.nav-container {
+    display: flex;
+    justify-content: center;
+    box-shadow: 0px 4px 4px rgba(148, 141, 141, 0.25);
+    height: 70px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+}
+.navbar-brand {
+    font-family: Varela Round;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: #9057ec;
+}
+.form-class {
+    display: flexbox;
+    padding: 10px;
+}
+.from-to-class {
+    padding: 10px;
+    margin: 10px;
+    margin-right: 0px;
+    font-size: 16px;
+    border: 2px solid #FFF;
+    width: 250px;
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(204, 204, 204);
+    cursor: pointer;
+}
+.start-button {
+    padding: 10px;
+    font-size: 16px;
+    margin: 10px;
+    margin-right: 0px;
+    background-color: #522dd4;
+    color: #FFF;
+    border: 2px solid #522dd4;
+    border-radius: 5px;
+    width: 100px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+table, th, td {
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+    margin-right: 0px;
+    font-size: 16px;
+    border: 2px solid #FFF;
+    width: 250px;
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(204, 204, 204);
+    text-align: center;
+}
+.set-call{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.clock-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.clock{
+    padding: 10px;
+    margin: 10px;
+    margin-right: 0px;
+    font-size: 16px;
+    width: 200px;
+    border-radius: 5px;
+    background-color: rgb(235, 37, 37);
+    color: #FFF;
+    text-align: center;
+    font-style: bold;
+    font-size: 15px;
+}
